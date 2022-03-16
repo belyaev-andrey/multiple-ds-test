@@ -1,0 +1,2 @@
+create table Todo (id bigint not null, completed boolean not null, title varchar(255), primary key (id));
+create sequence hibernate_sequence start with 1 increment by 1;

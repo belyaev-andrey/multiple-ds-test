@@ -1,0 +1,1 @@
+insert into Todo (completed, title) values ('false', 'Todo 1')

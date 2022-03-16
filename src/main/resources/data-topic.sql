@@ -1,0 +1,1 @@
+insert into Topic (title) values ('Topic 1')
